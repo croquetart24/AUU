@@ -2,9 +2,7 @@ aiohttp
 hachoir
 Pillow
 pyrogram
-requests
 tgcrypto
-python-dotenv
 loggers
 yt-dlp
 wget
@@ -12,3 +10,6 @@ youtube_dl
 Flask==2.3.2
 gunicorn==22.0.0
 sent
+aiogram==3.5.0
+requests==2.32.3
+python-dotenv==1.0.1
